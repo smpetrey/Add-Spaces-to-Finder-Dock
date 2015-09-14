@@ -18,6 +18,7 @@ Press return, and boom! Your Spacer Tile should be visible to the left of your S
 #### Notes
 
 * It won't let me add more :(
+   
    Sometimes (and I've noticed this on Yosemite or higher) you have to run
 
    `killall Dock`
