@@ -5,7 +5,7 @@
 ### Step One
 
 Press `⌘ + Spacebar` to open Spotlight
-Type `terminal` and press return to open your Terminal.app
+type into Spotlight, `terminal` and press return to open your Terminal.app
 
 ### Step Two
 
