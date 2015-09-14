@@ -1,5 +1,7 @@
 # Adding Spacer Tiles to Finder Dock
 
+![Spacer Tiles on the Finder Dock](screenshot.png)
+
 ### Step One
 
 Press `⌘ + Spacebar` to open Spotlight
