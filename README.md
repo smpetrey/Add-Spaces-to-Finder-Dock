@@ -1,7 +1,6 @@
 # Adding Spacer Tiles to Finder Dock
 
 ### Step One
------
 
 Press `⌘ + Spacebar` to open Spotlight
 Type `terminal` and press return to open your Terminal.app
