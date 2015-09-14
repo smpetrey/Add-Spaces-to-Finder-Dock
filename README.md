@@ -14,7 +14,11 @@ Press return, and boom! Your Spacer Tile should be visible to the left of your S
 
 _Note_
 
-Sometimes (and I've noticed this on Yosemite or higher) you have to run `killall Dock` an additional time to reload Finder if you want an additional Spacer down there.
+Sometimes (and I've noticed this on Yosemite or higher) you have to run
+
+`killall Dock`
+
+an additional time to reload Finder if you want an additional Spacer down there.
 
 _Removing Spacer Tiles_
 
