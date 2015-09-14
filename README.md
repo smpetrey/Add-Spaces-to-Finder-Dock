@@ -1,5 +1,7 @@
 # Adding Spacer Tiles to Finder Dock
 
+Adding Spacer Tiles is a great way to re-organize your dock! Let's Dive in!
+
 ![Spacer Tiles on the Finder Dock](screenshot.png)
 
 ### Step One
