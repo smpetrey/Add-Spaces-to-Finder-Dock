@@ -1,5 +1,5 @@
 # Adding Spacer Tiles to Finder Dock
-=============
+====================================
 
 ### Step One
 -------
