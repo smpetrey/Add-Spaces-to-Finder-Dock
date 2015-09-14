@@ -4,8 +4,7 @@
 
 ### Step One
 
-Press `⌘ + Spacebar` to open Spotlight
-type into Spotlight, `terminal` and press return to open your Terminal.app
+Press `⌘ + Spacebar` to open Spotlight. Begin typing, `terminal` and press return to open your Terminal.app
 
 ### Step Two
 
