@@ -17,12 +17,13 @@ Press return, and boom! Your Spacer Tile should be visible to the left of your S
 
 #### Notes
 
-Sometimes (and I've noticed this on Yosemite or higher) you have to run
+* It won't let me add more :(
+  - Sometimes (and I've noticed this on Yosemite or higher) you have to run
 
-`killall Dock`
+  - `killall Dock`
 
-an additional time to reload Finder if you want an additional Spacer down there.
+  - an additional time to reload Finder if you want an additional Spacer down there.
 
-_Removing Spacer Tiles_
+* Removing Spacer Tiles
 
-Same as removing an App from the Dock! Drag to the Trash Can. 
+  - Same as removing an App from the Dock! Drag to the Trash Can. 
